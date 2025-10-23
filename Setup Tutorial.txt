@@ -1,0 +1,5 @@
+1-Launch the game with the client
+2-goto localhost:3000
+3- Put username-3Qi
+4-Password-Admin3Qi
+5- then booom client loaded
